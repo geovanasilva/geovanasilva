@@ -1,3 +1,5 @@
+<img width="1000" src="https://i.ibb.co/k3p4zMs/comm-geovanna.png" />
+
 ## Hello world 👩🏽‍💻
 
 I'm a Software Engineer focused on Front-end engineering and:
